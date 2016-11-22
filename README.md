@@ -15,4 +15,6 @@ Social share counter is from: **SocialShare** https://github.com/AyumuKasuga/Soc
 ![](https://github.com/onigetoc/Social-Share-Buttons-Counter/blob/master/screenshot.png?raw=true)
 
 ## Usage
-Tu use these Social sharing buttons, check the demo and read the instruction from <a href="https://github.com/lipis/bootstrap-social">**bootstrap-social**</a> and <a href="https://github.com/AyumuKasuga/SocialShare">**SocialShare**</a>
+To use these Social sharing buttons, check the demo and read the instruction from <a href="https://github.com/lipis/bootstrap-social">**bootstrap-social**</a> and <a href="https://github.com/AyumuKasuga/SocialShare">**SocialShare**</a>
+
+You can create these Social Share Buttons with a link or buttons. See Bootstrap or Materialize for more infos.
